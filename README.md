@@ -19,6 +19,6 @@ Python with libraries
   matplotlib
   numpy 
   pandas
-  datetime
-  requests
+  keras
+  sklearn
 ```
