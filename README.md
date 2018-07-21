@@ -9,3 +9,16 @@ After completing this project, you will know:
 •	How to evaluate the performance of a neural network model in Keras on unseen data.
 •	How to perform data preparation to improve skill when using neural networks.
 •	How to tune the topology and configuration of neural networks in Keras.
+
+## Getting Start
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
+
+### Prerequisites
+Python with libraries
+```
+  matplotlib
+  numpy 
+  pandas
+  datetime
+  requests
+```
